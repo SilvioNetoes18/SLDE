@@ -1,2 +1,2 @@
 # SLDE
-SLDE (SilvioLinux Lightweight Desktop Environment)
+SLDE (Silvio Lightweight Desktop Environment)
